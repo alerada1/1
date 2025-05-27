@@ -1,0 +1,73 @@
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalBusiness",
+  "name": "مركز الإرادة للعلاج الطبيعي وإعادة التأهيل والحجامة الإسلامية",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "127",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "أحمد محمد"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      },
+      "reviewBody": "مركز ممتاز للعلاج الطبيعي، الطاقم الطبي محترف جداً والخدمة ممتازة. تحسنت حالتي كثيراً بعد العلاج هنا.",
+      "datePublished": "2024-12-15"
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "فاطمة علي"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      },
+      "reviewBody": "أفضل مركز للعلاج الطبيعي في يريم. العلاج بالحجامة كان فعال جداً وساعدني كثيراً.",
+      "datePublished": "2024-11-28"
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "محمد الحميري"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      },
+      "reviewBody": "خدمة ممتازة وأطباء متخصصون. ابني تحسن كثيراً بعد جلسات العلاج الطبيعي هنا.",
+      "datePublished": "2024-10-20"
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "سارة أحمد"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4",
+        "bestRating": "5"
+      },
+      "reviewBody": "مركز جيد جداً، الأطباء مهتمون بالمرضى والعلاج فعال. أنصح بزيارته.",
+      "datePublished": "2024-09-15"
+    }
+  ],
+  "priceRange": "$$",
+  "paymentAccepted": "Cash",
+  "currenciesAccepted": "YER"
+}

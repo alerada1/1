@@ -1,0 +1,41 @@
+{
+  "name": "مركز الإرادة للعلاج الطبيعي وإعادة التأهيل والحجامة الإسلامية",
+  "short_name": "مركز الإرادة",
+  "description": "مركز متخصص في العلاج الطبيعي وإعادة التأهيل والحجامة الإسلامية في يريم إب، اليمن",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0077b6",
+  "orientation": "portrait-primary",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "al.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "al.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "al.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "al.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["medical", "health", "business"],
+  "scope": "/",
+  "prefer_related_applications": false
+}

@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
             today.setHours(0, 0, 0, 0);
             
             if (selectedDate < today) {
-                errors.push('لا يمكن حجز موعد في تاريخ سابق');
+                errors.push('لا يمكن حجز موعد في تاريخ سابقاً');
             }
             
             // التحقق من أن التاريخ ليس يوم جمعة
